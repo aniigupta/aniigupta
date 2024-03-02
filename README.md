@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA,Web Dev**
 
-- 💬 Ask me about **C++,C,JAVA,JAVASCRIPT,CSS,HTML**
+- 💬 Ask me about **C++,JAVASCRIPT,CSS,HTML,reactjs**
 
 - 📫 How to reach me **Aniket8076206264@gmail.com**
 

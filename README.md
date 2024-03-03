@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniigupta&label=Profile%20views&color=0e75b6&style=flat" alt="aniigupta" /> </p>
 
-- 🔭 I’m currently working on **Some Web development Project**
+- 🔭 I’m currently working on **React Project**
 
 - 🌱 I’m currently learning **DSA,Web Dev**
 
-- 💬 Ask me about **C++,JAVASCRIPT,CSS,HTML,reactjs**
+- 💬 Ask me about **C++,JAVASCRIPT,CSS,HTML,ReactJs**
 
 - 📫 How to reach me **Aniket8076206264@gmail.com**
 

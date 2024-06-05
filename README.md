@@ -5,15 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniigupta&label=Profile%20views&color=0e75b6&style=flat" alt="aniigupta" /> </p>
 
-- 🔭 I’m currently working on **React Project**
+- 🔭 I’m currently working on **Mern**
 
-- 🌱 I’m currently learning **DSA,Web Dev**
+- 🌱 I’m currently learning **DSA,NextJs**
 
-- 💬 Ask me about **C++,JAVASCRIPT,CSS,HTML,ReactJs**
+- 💬 Ask me about **C++,MERN Stack**
 
 - 📫 How to reach me **Aniket8076206264@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CpAa49cbCQdGyxmSYvTl1wKfNNTH1KXz/view?usp=share_link](https://drive.google.com/file/d/1CpAa49cbCQdGyxmSYvTl1wKfNNTH1KXz/view?usp=share_link)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aniket-gupta-564758226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-gupta-564758226" height="30" width="40" /></a>

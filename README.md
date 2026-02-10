@@ -20,7 +20,7 @@
 
 ### 🚀 Quick Summary
 - 🎓 **B.Tech:** Industrial Internet of Things (2021-2025) at USAR, Delhi.
-- 💼 **Current Role:** Full Stack Developer at **Naarivo Creations**.
+- 💼 **Current Role:** Full Stack Developer at **Anarish Innovations**.
 - 🛠️ **Core Expertise:** Building production-grade systems with **MERN**, **FastAPI**, and **LLM Integration**.
 - 🏆 **Achievements:** 5⭐ in C++ on HackerRank | 200+ LeetCode problems solved.
 - 🌱 **Learning:** Deepening knowledge in **Gen AI** and **System Design**.

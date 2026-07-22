@@ -1,348 +1,220 @@
 <div align="center">
 
-# Hi 👋, I'm Aniket Gupta
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:0EA5E9&height=250&section=header&text=Aniket%20Gupta&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=55&descSize=20"/>
 
-### Full Stack Developer • AI Engineer • Building Scalable Web Apps & AI Products
+<a href="https://linkedin.com/in/aniket-gupta-564758226">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4F46E5&center=true&vCenter=true&width=650&lines=Building+Scalable+SaaS+%26+Enterprise+Apps;Shipping+AI+Agents+%26+RAG+Pipelines;Turning+Ideas+Into+Production+Systems" alt="Typing SVG" />
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=220&section=header&text=Aniket%20Gupta&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=aniigupta&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/aniket-gupta-564758226)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniiigupta23@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=read-the-docs)](https://drive.google.com/file/d/1YwRbxlF1Y9I85KFw_JvlqZo5uHOwl_0_/view)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-gupta-564758226)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniiigupta23@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-111111?style=for-the-badge&logo=readdotcv&logoColor=white)](https://drive.google.com/file/d/1YwRbxlF1Y9I85KFw_JvlqZo5uHOwl_0_/view)
+[![Profile Views](https://komarev.com/ghpvc/?username=aniigupta&label=Profile+Views&color=4F46E5&style=for-the-badge)](https://github.com/aniigupta)
 
 </div>
 
----
+<br>
 
-# 🚀 About Me
+## 🚀 About Me
 
-I'm a **Full Stack Developer** with professional experience building scalable SaaS applications, enterprise software, and AI-powered products.
+```yaml
+role: Full Stack Developer & AI Engineer
+focus: Scalable SaaS platforms, enterprise software, and AI-powered products
+stack: Next.js · React · Node.js · FastAPI · PostgreSQL · Docker
+currently: Diving deeper into AI Agents, RAG, System Design & Cloud Deployment
+belief: "Good code ships. Great code scales."
+```
 
-I enjoy solving real-world problems using **Next.js, React, Node.js, FastAPI, PostgreSQL, Docker, and AI technologies**.
+I design and build products end-to-end — from database schema to deployed container — with a growing focus on wiring **LLMs, agents, and retrieval pipelines** into real applications people actually use.
 
-Currently expanding my expertise in:
+<br>
 
-- 🤖 Generative AI
-- 🧠 AI Agents
-- 🔍 Retrieval-Augmented Generation (RAG)
-- 🏗️ System Design
-- ☁️ Cloud Deployment
+## 💼 Professional Experience
 
----
+<table>
+<tr>
+<td width="140" valign="top"><b>2023 — Present</b></td>
+<td>
 
-# 💼 Professional Experience
+**Full Stack Developer** · Anarish Innovations Pvt. Ltd.
 
-## Full Stack Developer
-### Anarish Innovations Pvt. Ltd.
+- Built and shipped an enterprise-grade **Inventory Management SaaS** and a production **CRM platform** end-to-end
+- Architected **PostgreSQL** schemas and REST APIs powering both platforms
+- Extended the frontend footprint across **Next.js, React & Angular**, plus a native **Kotlin** Android app
+- Integrated **Strapi CMS** and **Cloudinary** for content and media workflows
+- Containerized services with **Docker** and shipped them to production on **Railway**
+- Owned **Linux server** administration and deployment for live environments
 
-- Developed scalable web applications using **Next.js**, **React**, **Node.js**, and **Angular**
-- Built enterprise **Inventory Management System (SaaS)**
-- Worked on CRM platform development
-- Designed PostgreSQL databases
-- Integrated Strapi CMS
-- Developed REST APIs
-- Built Kotlin Android application
-- Dockerized applications
-- Deployed applications using Railway
-- Managed Linux servers
-- Worked with Cloudinary media management
+</td>
+</tr>
+</table>
 
----
+<br>
 
-# 🚀 Featured Projects
+## 🧠 Featured Projects
 
-## 📦 Inventory Management SaaS
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Enterprise inventory platform featuring:
+### 📦 Inventory Management SaaS
+Enterprise-grade platform for tracking stock, sales, and purchases at scale.
 
-- Authentication
-- Role-based access
-- Product Management
-- Stock Tracking
-- Sales Management
-- Purchase Management
-- Dashboard
-- Analytics
-- PostgreSQL
-- REST APIs
+`Auth & RBAC` `Stock Tracking` `Sales & Purchase Mgmt` `Analytics Dashboard` `PostgreSQL` `REST APIs`
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🌐 CRM Platform
+### 🌐 CRM Platform
+Production CRM for managing customers, leads, and pipeline reporting.
 
-Production CRM application featuring
+`Lead Tracking` `Dynamic Forms` `Reporting Dashboard` `Auth` `REST APIs` `Responsive UI`
 
-- Customer Management
-- Lead Tracking
-- Dynamic Forms
-- Dashboard
-- Reporting
-- Authentication
-- REST APIs
-- Responsive UI
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🕵️ AI Website Auditor
+GPT-4 Vision–powered platform that audits any website like a senior consultant would.
 
-## 🤖 AI Website Auditor
+`UI/UX Analysis` `SEO Report` `Accessibility Audit` `Performance Report` `LangGraph` `Playwright + Lighthouse`
 
-AI-powered website analysis platform built using
+</td>
+<td width="50%" valign="top">
 
-- OpenAI GPT-4 Vision
-- Playwright
-- Lighthouse
-- LangGraph
-- Next.js
-- PostgreSQL
+### 💬 AI Website Chatbot
+RAG-powered chatbot that answers questions grounded in a website's own content.
 
-Features
+`OpenAI API` `RAG Pipeline` `LangGraph` `PostgreSQL` `Node.js`
 
-- UI Analysis
-- UX Analysis
-- SEO Report
-- Accessibility Report
-- Performance Report
-- Technical Audit
-- AI Suggestions
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
----
+### 📱 Kotlin Android Application
+Native Android app built with modern architecture — **Kotlin**, **MVVM**, and REST API integration.
 
-## 💬 AI Website Chatbot
+</td>
+</tr>
+</table>
 
-Built an intelligent chatbot capable of answering questions from website content using AI.
+<br>
 
-Tech Used
+## 🛠️ Tech Stack
 
-- OpenAI API
-- RAG
-- LangGraph
-- PostgreSQL
-- Node.js
+<table>
+<tr>
+<td valign="top" width="50%">
 
----
-
-## 📱 Kotlin Android Application
-
-Native Android application built using
-
-- Kotlin
-- MVVM
-- REST APIs
-- Modern Android Architecture
-
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-<p>
+**Languages**
+<br>
 <img src="https://skillicons.dev/icons?i=cpp,js,ts,python,kotlin,java,html,css"/>
-</p>
 
----
-
-## Frontend
-
-<p>
+**Frontend**
+<br>
 <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap"/>
-</p>
 
----
-
-## Backend
-
-<p>
+**Backend**
+<br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
 
----
+</td>
+<td valign="top" width="50%">
 
-## Database
-
-<p>
+**Database**
+<br>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase"/>
-</p>
 
----
-
-## DevOps & Cloud
-
-<p>
+**DevOps & Cloud**
+<br>
 <img src="https://skillicons.dev/icons?i=docker,linux,git,github,nginx"/>
-</p>
 
----
+**Design & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=figma,postman,vscode"/>
 
-## Tools
+</td>
+</tr>
+</table>
 
-- Git
-- GitHub
-- Postman
-- Cloudinary
-- Railway
-- PM2
-- Strapi CMS
-- Playwright
-- Lighthouse
-- VS Code
-- Figma
+**Also in the toolbox:** Cloudinary · Railway · PM2 · Strapi CMS · Playwright · Lighthouse
 
----
+### 🤖 AI Stack
+`OpenAI API` `LangGraph` `AI Agents` `GPT-4 Vision` `Retrieval-Augmented Generation` `Prompt Engineering` `AI Workflow Automation`
 
-## AI Stack
+<br>
 
-- OpenAI API
-- LangGraph
-- Prompt Engineering
-- AI Agents
-- GPT Vision
-- Retrieval-Augmented Generation (RAG)
-- AI Workflow Automation
+## 🌱 Currently Leveling Up
 
----
+<img src="https://img.shields.io/badge/System_Design-Advanced-4F46E5?style=flat-square"/> <img src="https://img.shields.io/badge/Kubernetes-Learning-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Distributed_Systems-Exploring-7C3AED?style=flat-square"/> <img src="https://img.shields.io/badge/Multi--Agent_AI-Building-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/MCP-Studying-111111?style=flat-square"/>
 
-# 🌱 Currently Learning
+<br>
 
-- Advanced System Design
-- Kubernetes
-- Distributed Systems
-- Multi-Agent AI Systems
-- LLM Engineering
-- Model Context Protocol (MCP)
+## 🏆 Achievements
 
----
+- 🚀 Shipped multiple production SaaS applications end-to-end
+- 🤖 Built and deployed AI-powered products using GPT-4 Vision & LangGraph
+- 📱 Delivered a native Android app using Kotlin & MVVM
+- 🐳 Dockerized and deployed apps to live Linux servers
+- 💻 Solved **200+ DSA problems**
+- ⭐ **HackerRank 5★** in C++
 
-# 🏆 Achievements
+<br>
 
-- 💼 Professional Full Stack Developer
-- 🚀 Built production SaaS applications
-- 🤖 Working on AI-powered products
-- 📱 Android App Development using Kotlin
-- 🐳 Dockerized production deployments
-- 🌐 Linux Server Deployment
-- 💻 200+ DSA Problems Solved
-- ⭐ HackerRank 5★ C++
-
----
-
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aniigupta&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniigupta&layout=compact&theme=tokyonight"/>
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=aniigupta&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniigupta&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniigupta&theme=tokyonight"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aniigupta&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-## 📈 Contribution Graph
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniigupta&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aniigupta&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-## 🏅 GitHub Trophies
-
 <p align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=aniigupta&theme=tokyonight&column=4&margin-w=15&margin-h=15"/>
-
 </p>
 
----
+<br>
 
 ## ⚡ Fun Fact
 
 ```javascript
 const aniket = {
-    code: [
-        "JavaScript",
-        "TypeScript",
-        "Python",
-        "Kotlin",
-        "C++"
-    ],
+  code:     ["JavaScript", "TypeScript", "Python", "Kotlin", "C++"],
+  frontend: ["React", "Next.js", "Angular", "Tailwind CSS"],
+  backend:  ["Node.js", "Express", "FastAPI"],
+  database: ["PostgreSQL", "MongoDB", "MySQL"],
+  ai:       ["OpenAI", "LangGraph", "RAG", "GPT Vision", "Prompt Engineering"],
+  devops:   ["Docker", "Railway", "Linux", "Nginx", "PM2"],
 
-    frontend: [
-        "React",
-        "Next.js",
-        "Angular",
-        "Tailwind CSS"
-    ],
+  currentFocus: ["AI Engineering", "System Design", "Building SaaS Products"],
 
-    backend: [
-        "Node.js",
-        "Express",
-        "FastAPI"
-    ],
-
-    database: [
-        "PostgreSQL",
-        "MongoDB",
-        "MySQL"
-    ],
-
-    ai: [
-        "OpenAI",
-        "LangGraph",
-        "RAG",
-        "GPT Vision",
-        "Prompt Engineering"
-    ],
-
-    devops: [
-        "Docker",
-        "Railway",
-        "Linux",
-        "Nginx",
-        "PM2"
-    ],
-
-    currentFocus: [
-        "AI Engineering",
-        "System Design",
-        "Building SaaS Products"
-    ]
-}
+  debug: () => "It works on my machine 🤷‍♂️ → and now in production too 🚀"
+};
 ```
 
----
+<br>
 
-# 🤝 Let's Connect
+## 🤝 Let's Build Something
 
-I'm always interested in collaborating on:
+Open to collaborating on:
 
-- 🚀 SaaS Products
-- 🤖 AI Applications
-- 🌐 Full Stack Projects
-- 📱 Mobile Applications
-- 💡 Startup Ideas
-- 🔥 Open Source
-
----
+`🚀 SaaS Products` `🤖 AI Applications` `🌐 Full Stack Projects` `📱 Mobile Apps` `💡 Startup Ideas` `🔥 Open Source`
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks for stopping by — if something here caught your eye, drop a star on the repo!
 
-**If you like my work, consider giving a ⭐ to my repositories!**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:4F46E5&height=120&section=footer"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:0EA5E9&height=120&section=footer"/>
